@@ -79,7 +79,9 @@ header .logo{
 .form-container .input-block input{
     width: 100%;
     height: 4rem;
+    line-height: 8rem;
     outline: none;
+    padding-left: .8rem;
     border: 1px solid #CCC;
 }
 .form-container .input-bnt input{
@@ -174,6 +176,7 @@ section.destaque{
 @media screen and (max-width:768px){
     .bg{
         text-align: center;
+        background-attachment: fixed;
     }
     .form-container{
         float: none;
