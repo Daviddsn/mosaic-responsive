@@ -177,6 +177,7 @@ section.destaque{
     .bg{
         text-align: center;
         background-attachment: fixed;
+        background-size:auto ;
     }
     .form-container{
         float: none;
