@@ -42,7 +42,7 @@ header .logo{
 }
 
 .bg{
-    background: url('/img/bg-form.jpg');
+    background: url('img/bg-form.jpg');
     background-position: center;
     background-size: cover;
     height: 50rem;
@@ -137,7 +137,7 @@ section.destaque{
     
 }
 .bg-mosaic.mosaic1{
-    background-image: url("/img/mosaico1.jpg");
+    background-image: url("img/mosaico1.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -145,7 +145,7 @@ section.destaque{
 }
 .bg-mosaic.mosaic2{
     order: 1;
-    background-image: url("/img/mosaico2.jpg");
+    background-image: url("img/mosaico2.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -154,13 +154,13 @@ section.destaque{
     order: 2;
 }
 .bg-mosaic.mosaic3{
-    background-image: url('/img/mosaico3.jpg');
+    background-image: url('img/mosaico3.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 .bg-mosaic.mosaic4{
-    background-image: url('/img/mosaico4.jpg');
+    background-image: url('img/mosaico4.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
